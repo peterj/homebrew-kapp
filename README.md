@@ -1,2 +1,2 @@
 # homebrew-kapp
-Homebrew code for kapp project
+Homebrew code for [Kapp](https://github.com/peterj/kapp) 
